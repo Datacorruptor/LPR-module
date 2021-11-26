@@ -1,0 +1,1 @@
+https://tfhub.dev/google/faster_rcnn/openimages_v4/inception_resnet_v2/1
