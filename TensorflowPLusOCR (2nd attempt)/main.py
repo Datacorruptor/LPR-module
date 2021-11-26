@@ -196,7 +196,6 @@ def draw_boxes(image, boxes, class_names, scores, max_boxes=10, min_score=0.1):
       break
   return image , PLT_NUM
 
-#@param ["https://tfhub.dev/google/openimages_v4/ssd/mobilenet_v2/1", "https://tfhub.dev/google/faster_rcnn/openimages_v4/inception_resnet_v2/1"]
 print("loading")
 x = hub.load("resnet")
 print("middle")
